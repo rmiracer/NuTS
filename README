@@ -1,0 +1,7 @@
+The NuTS code allows to compute the skewness and the kurtosis of a time series using a sliding window. A parabolic relation is commonly observed in time series of fluid and plasma turbulence. For more details see
+
+Miranda, R. A.; Schelin, A. B., Chian, A. C.-L. and Ferreira, J. L. ``Non-Gaussianity and cross-scale coupling in interplanetary magnetic field turbulence during a rope-rope magnetic reconnection event'', Ann. Geophys., 36, 497-507, 2018. https://doi.org/10.5194/angeo-36-497-2018
+
+Please cite the above reference when using this code. Thanks!
+
+  Rodrigo.
